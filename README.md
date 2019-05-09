@@ -1,23 +1,5 @@
 # **BooYah! - The moment-based media rating application**
 
-Group 5 final Project for Dalhousie University's Fall 2018 edition of CSCI 4176/5708: Mobile Computing.
-
-**Instructor**: Dr. Tami Meredith
-
-## **Members**
-
-- Jigar Joshi (B00812722)
-- Shivani Desai (B00799169)
-- Bola Okesanjo (B00876268)
-- Vivek Shah (B00799155)
-- Ryan Stevens (B00695460)
-
-## **GitLab Repository**
-
-The GitLab repository is [here](https://git.cs.dal.ca/rstevens/booyah). To request access, contact Ryan Stevens at ry366081@dal.ca
-
-**Important:** In order to use *BooYah!*, the server must be running. Please contact Bola Okesanjo at o.okesanjo@dal.ca or (902-448-0790) to arrange a time for it to be running.
-
 ## **Project Summary**
 
 *BooYah!* is a time-based media rating application for Android that allows users to create quantitative feedback about particular moments of movies, tv shows, music, and other time-based media. Users rate particularly impactful moments bad ("Boo!") or good ("Yah!"). Ratings for a BooYah! session are assembled into graphs that show the parts that the user liked and disliked. When multiple people rate a piece of media, those ratings are aggregated to show the total number of likes and dislikes for moments of the media.
